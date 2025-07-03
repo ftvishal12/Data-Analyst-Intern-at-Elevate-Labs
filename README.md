@@ -47,6 +47,9 @@ To communicate these findings effectively, I structured a storyboard with the fo
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Data-Analyst-Intern-at-Elevate-Labs-Task-3
 Worked on designing an interactive Dashboard in Tableau for business stakeholders, starting with the dataset (Ecommerce_Product_Sales.csv). The goal was to visualize key performance indicators like total revenue, profit, and units sold, along with time-series trends and product/category performance. To support this, I drafted a professional PowerPoint summary outlining the objectives, insights, and dashboard structure. Added filters for interactivity and consistent design themes. All design and visuals were clearly defined in the Task 3 pdf for easy implementation in Tableau Desktop.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Data-Analyst-Intern-at-Elevate-Labs-Task-4
+I learned how to use SQL for Data Analysis. I began by importing the Ecommerce_Product_Sales.csv dataset and outlined the structure of the corresponding SQL table. I then created SQL queries to analyze the data, covering essential concepts such as SELECT, WHERE, GROUP BY, ORDER BY, and aggregate functions like SUM and AVG. These queries included calculating total sales by category, identifying the top-selling products, analyzing regional sales performance, and filtering products with above-average sales using subqueries. I also included a JOIN query to analyze customer spending and created a view to track monthly sales. To optimize performance, I created indexes on frequently queried columns.
 
 
 

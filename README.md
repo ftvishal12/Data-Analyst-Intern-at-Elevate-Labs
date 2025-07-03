@@ -60,8 +60,10 @@ Summary of Findings
 - Strong positive correlation between Units Sold and Revenue.
 - Certain categories like Electronics have higher average prices.
 - Return Rate is generally low but varies slightly across products.
- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Data-Analyst-Intern-at-Elevate-Labs-Task-6
+In this task, I conducted a professional sales trend analysis using an e-commerce dataset to evaluate monthly revenue and order volume. I formulated a MySQL query that extracts the year and month, aggregates total revenue using SUM, and computes order volume using COUNT(DISTINCT order_id), grouping and ordering the results by month. I then simulated the execution of this query and produced a monthly summary table, which highlighted fluctuations in revenue and volume across the year. The final outcome includes a fully prepared SQL script and a detailed analytical summary.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 

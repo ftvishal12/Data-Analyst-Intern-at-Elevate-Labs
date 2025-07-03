@@ -64,12 +64,9 @@ Summary of Findings
 # Data-Analyst-Intern-at-Elevate-Labs-Task-6
 In this task, I conducted a professional sales trend analysis using an e-commerce dataset to evaluate monthly revenue and order volume. I formulated a MySQL query that extracts the year and month, aggregates total revenue using SUM, and computes order volume using COUNT(DISTINCT order_id), grouping and ordering the results by month. I then simulated the execution of this query and produced a monthly summary table, which highlighted fluctuations in revenue and volume across the year. The final outcome includes a fully prepared SQL script and a detailed analytical summary.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
+# Data-Analyst-Intern-at-Elevate-Labs-Task-7
+In this task, I performed a basic sales data analysis using Python and SQL with a lightweight SQLite database. We started by uploading a CSV file (Ecommerce_Product_Sales.csv) containing sales records, which included details like product name, units sold, price, and revenue. The data was then loaded into a SQLite database (sales_data.db) with a table named sales. Using SQL queries within Python, I calculated the total quantity sold and total revenue generated for each product. The results were loaded into a Pandas DataFrame for easy manipulation and display. I printed the sales summary and visualized the total revenue per product using a simple bar chart created with Matplotlib. This end-to-end workflow demonstrated how to extract and present meaningful business insights from raw sales data using a combination of SQL and Python.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 

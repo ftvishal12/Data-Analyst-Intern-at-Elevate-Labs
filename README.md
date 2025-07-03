@@ -35,3 +35,12 @@ Actions Taken:
   Used Pandas functions like astype() to convert data types appropriately.
   Ensured dates, integers, floats, and strings were correctly interpreted.
 Outcome: Enabled more efficient analysis and accurate computations.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Data-Analyst-Intern-at-Elevate-Labs-Task-2
+To began with, I started exploring the Ecommerce_Product_Sales.csv dataset, which contains 500 records with fields such as Product ID, Name, Category, Price, Units Sold, Revenue, Rating, Return Rate, and Seller Name. After verifying that the data was clean and properly structured, I imported it into Tableau Public to build a professional dashboard aimed at conveying meaningful business insights.
+
+My objective was to visually analyze the performance of different product categories, sellers, and ratings, while also considering key metrics like revenue, return rate, and sales volume. To achieve this, we created four core visualizations: a treemap showing Seller Performance, a scatter plot for Product Rating vs Sales, a horizontal bar chart for Revenue by Category, and a vertical bar chart displaying Return Rate by Category.
+
+From these charts, I extracted several insights. I observed that Seller_A and Seller_C are the top revenue contributors. Products with higher ratings tend to sell more, showing a positive relationship between quality and demand. The Automotive and Electronics categories lead in revenue but also suffer from the highest return rates, indicating potential issues with product quality, customer expectations, or description accuracy.
+
+To communicate these findings effectively, I structured a storyboard with the following slides: an overview of sales performance, an analysis of category-level tradeoffs between revenue and return rates, a breakdown of how product ratings influence sales, a seller performance snapshot, and a final action plan summarizing business recommendations. These insights and visual elements together form a comprehensive Tableau dashboard that not only visualizes the data but also tells a compelling, insight-driven story to support decision-making.

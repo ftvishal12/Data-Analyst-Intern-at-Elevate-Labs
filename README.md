@@ -50,6 +50,17 @@ Worked on designing an interactive Dashboard in Tableau for business stakeholder
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Data-Analyst-Intern-at-Elevate-Labs-Task-4
 I learned how to use SQL for Data Analysis. I began by importing the Ecommerce_Product_Sales.csv dataset and outlined the structure of the corresponding SQL table. I then created SQL queries to analyze the data, covering essential concepts such as SELECT, WHERE, GROUP BY, ORDER BY, and aggregate functions like SUM and AVG. These queries included calculating total sales by category, identifying the top-selling products, analyzing regional sales performance, and filtering products with above-average sales using subqueries. I also included a JOIN query to analyze customer spending and created a view to track monthly sales. To optimize performance, I created indexes on frequently queried columns.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Data-Analyst-Intern-at-Elevate-Labs-Task-5
+In the analysis, I performed a comprehensive Exploratory Data Analysis (EDA) on the Ecommerce_Product_Sales.csv dataset using Python libraries such as Pandas, Matplotlib, and Seaborn. I began by loading and inspecting the dataset to understand its structure, confirming that it contains 500 entries and 9 features with no missing values. Univariate analysis was conducted to explore the distribution of key numerical features such as price, units sold, revenue, rating, and return rate, along with categorical variables like product category and seller name. Bivariate and multivariate analyses were then used to uncover relationships between features using correlation heatmaps, scatterplots, and pairplots. Key insights were drawn, including a strong correlation between units sold and revenue, variable pricing trends across product categories, and generally low return rates. I concluded the EDA by summarizing these findings in a detailed report and generating a Jupyter Notebook that visually and statistically captures all observations, which can be further used for business insights, decision-making, or advanced modeling.
+
+Summary of Findings
+- Price is right-skewed with a wide range.
+- Most products have moderate to high ratings.
+- Strong positive correlation between Units Sold and Revenue.
+- Certain categories like Electronics have higher average prices.
+- Return Rate is generally low but varies slightly across products.
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 

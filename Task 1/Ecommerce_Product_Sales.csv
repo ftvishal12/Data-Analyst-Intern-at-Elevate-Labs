@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Price,Units_Sold,Revenue,Rating,Return_Rate,Seller_Name,Order_ID,Order_Date
+Product_1,Max Product_1,Toys,358.65,983,352552.95,3.63,0.16,Seller_B,1,10-07-2023
+Product_2,Pro Product_2,Home & Kitchen,248,79,19592,1.23,0.2,Seller_E,2,03-12-2023
+Product_3,Eco Product_3,Automotive,148.12,206,30512.72,2.09,0.05,Seller_D,3,27-03-2023
+Product_4,Super Product_4,Electronics,15.76,585,9219.6,3.69,0.05,Seller_D,4,14-05-2023
+Product_5,Ultra Product_5,Home & Kitchen,20.84,401,8356.84,2.01,0.15,Seller_B,5,20-01-2023
+Product_6,Ultra Product_6,Home & Kitchen,384.86,298,114688.28,4.03,0.01,Seller_A,6,19-03-2023
+Product_7,Max Product_7,Automotive,373.36,851,317729.36,2.4,0.06,Seller_E,7,06-05-2023
+Product_8,Max Product_8,Electronics,38.4,839,32217.6,1.15,0.24,Seller_C,8,14-05-2023
+Product_9,Eco Product_9,Clothing,141.06,467,65875.02,3.25,0.27,Seller_E,9,20-10-2023
+Product_10,Max Product_10,Home & Kitchen,170.67,953,162648.51,3.19,0.27,Seller_A,10,21-12-2023
+Product_11,Max Product_11,Books,16.68,434,7239.12,4.67,0.08,Seller_A,11,31-08-2023
+Product_12,Pro Product_12,Books,93.58,852,79730.16,3.51,0.16,Seller_E,12,11-11-2023
+Product_13,Ultra Product_13,Clothing,158.33,458,72515.14,4.26,0.15,Seller_A,13,02-08-2023
+Product_14,Super Product_14,Clothing,219.38,312,68446.56,3.1,0.21,Seller_D,14,30-04-2023
+Product_15,Ultra Product_15,Toys,316.07,672,212399.04,2.58,0.25,Seller_A,15,08-02-2023
+Product_16,Ultra Product_16,Automotive,214.53,863,185139.39,3.39,0.23,Seller_B,16,25-02-2023
+Product_17,Super Product_17,Beauty,459.01,258,118424.58,2.77,0.12,Seller_E,17,09-01-2023
+Product_18,Pro Product_18,Beauty,279.53,552,154300.56,1.26,0.06,Seller_C,18,18-11-2023
+Product_19,Eco Product_19,Books,280.92,21,5899.32,3.51,0.19,Seller_A,19,15-02-2023
+Product_20,Super Product_20,Sports,322.92,55,17760.6,1.05,0.07,Seller_B,20,01-05-2023
+Product_21,Super Product_21,Clothing,438.14,883,386877.62,3.65,0.12,Seller_B,21,08-07-2023
+Product_22,Eco Product_22,Books,288.88,698,201638.24,3.43,0.16,Seller_E,22,17-11-2023
+Product_23,Eco Product_23,Books,142.44,213,30339.72,4.84,0.28,Seller_B,23,10-11-2023
+Product_24,Super Product_24,Clothing,150.08,581,87196.48,4.25,0.18,Seller_B,24,14-09-2023
+Product_25,Eco Product_25,Clothing,46.12,944,43537.28,1.57,0.02,Seller_B,25,13-05-2023
+Product_26,Pro Product_26,Beauty,454.86,611,277919.46,1.53,0.24,Seller_D,26,27-05-2023
+Product_27,Super Product_27,Beauty,281.27,201,56535.27,2.15,0.26,Seller_E,27,04-12-2023
+Product_28,Ultra Product_28,Books,388.47,488,189573.36,4.93,0.26,Seller_E,28,04-02-2023
+Product_29,Max Product_29,Toys,108.75,260,28275,3.36,0.02,Seller_C,29,24-11-2023
+Product_30,Max Product_30,Home & Kitchen,493.53,229,113018.37,4.08,0.27,Seller_A,30,28-09-2023
+Product_31,Super Product_31,Beauty,186.94,877,163946.38,4.22,0.18,Seller_D,31,27-02-2023
+Product_32,Ultra Product_32,Beauty,286.51,533,152709.83,1.83,0.05,Seller_D,32,12-11-2023
+Product_33,Super Product_33,Books,189.34,421,79712.14,4,0.19,Seller_A,33,02-10-2023
+Product_34,Eco Product_34,Beauty,361.88,291,105307.08,4.14,0.08,Seller_D,34,18-12-2023
+Product_35,Eco Product_35,Home & Kitchen,117.23,153,17936.19,1.13,0.12,Seller_C,35,08-12-2023
+Product_36,Eco Product_36,Automotive,307.68,660,203068.8,2.03,0.11,Seller_D,36,13-06-2023
+Product_37,Max Product_37,Books,6.91,413,2853.83,2.92,0.01,Seller_E,37,17-10-2023
+Product_38,Pro Product_38,Home & Kitchen,388.47,296,114987.12,2.27,0.03,Seller_B,38,08-11-2023
+Product_39,Ultra Product_39,Home & Kitchen,365.68,348,127256.64,1.21,0.1,Seller_D,39,14-07-2023
+Product_40,Eco Product_40,Books,170.87,799,136525.13,4.73,0.04,Seller_A,40,08-06-2023
+Product_41,Eco Product_41,Beauty,352.22,584,205696.48,2.36,0.13,Seller_A,41,28-09-2023
+Product_42,Max Product_42,Toys,409.26,612,250467.12,2.47,0.14,Seller_D,42,07-11-2023
+Product_43,Ultra Product_43,Toys,455.81,792,361001.52,4.46,0.01,Seller_E,43,13-04-2023
+Product_44,Eco Product_44,Toys,58.4,323,18863.2,4.74,0.15,Seller_A,44,12-04-2023
+Product_45,Eco Product_45,Sports,199.9,915,182908.5,1.12,0.02,Seller_A,45,04-09-2023
+Product_46,Super Product_46,Books,57.95,554,32104.3,2.75,0.02,Seller_E,46,02-11-2023
+Product_47,Super Product_47,Sports,363.8,35,12733,2.21,0.01,Seller_D,47,02-11-2023
+Product_48,Ultra Product_48,Clothing,142.03,208,29542.24,3.43,0,Seller_C,48,22-03-2023
+Product_49,Pro Product_49,Automotive,225.47,549,123783.03,3.54,0.14,Seller_A,49,21-10-2023
+Product_50,Ultra Product_50,Toys,264.99,145,38423.55,2.55,0.14,Seller_E,50,26-01-2023
+Product_51,Ultra Product_51,Books,287.53,432,124212.96,4.67,0.13,Seller_C,51,04-04-2023
+Product_52,Super Product_52,Toys,412.09,521,214698.89,3.97,0.15,Seller_B,52,25-05-2023
+Product_53,Max Product_53,Electronics,236.85,391,92608.35,3.93,0.24,Seller_C,53,11-02-2023
+Product_54,Eco Product_54,Toys,364.57,804,293114.28,4.78,0.22,Seller_D,54,06-01-2023
+Product_55,Pro Product_55,Home & Kitchen,390.42,151,58953.42,2.22,0.14,Seller_B,55,06-12-2023
+Product_56,Max Product_56,Sports,481.45,280,134806,4.67,0.1,Seller_B,56,05-12-2023
+Product_57,Pro Product_57,Toys,171.7,540,92718,1.18,0.24,Seller_E,57,19-02-2023
+Product_58,Eco Product_58,Sports,152.2,26,3957.2,4.53,0.2,Seller_D,58,20-11-2023
+Product_59,Max Product_59,Toys,70,836,58520,2.89,0.05,Seller_E,59,26-05-2023
+Product_60,Pro Product_60,Toys,386.87,694,268487.78,1.63,0,Seller_C,60,31-08-2023
+Product_61,Pro Product_61,Electronics,477.79,292,139514.68,4.6,0.14,Seller_C,61,04-06-2023
+Product_62,Super Product_62,Toys,475.26,618,293710.68,2.69,0.2,Seller_A,62,26-05-2023
+Product_63,Ultra Product_63,Automotive,44.17,790,34894.3,2.28,0.08,Seller_B,63,27-06-2023
+Product_64,Pro Product_64,Clothing,362.98,371,134665.58,3.8,0.05,Seller_B,64,23-04-2023
+Product_65,Max Product_65,Automotive,491.53,364,178916.92,4.54,0.08,Seller_D,65,22-02-2023
+Product_66,Pro Product_66,Toys,362.15,601,217652.15,1.03,0.01,Seller_A,66,17-06-2023
+Product_67,Ultra Product_67,Automotive,369.69,695,256934.55,2.58,0.15,Seller_B,67,02-08-2023
+Product_68,Max Product_68,Clothing,476.18,556,264756.08,3.84,0.21,Seller_D,68,12-02-2023
+Product_69,Pro Product_69,Electronics,93.75,641,60093.75,2.88,0.29,Seller_B,69,25-09-2023
+Product_70,Super Product_70,Home & Kitchen,239.73,777,186270.21,4.27,0.27,Seller_C,70,12-09-2023
+Product_71,Super Product_71,Electronics,340.71,717,244289.07,4.2,0.24,Seller_B,71,20-09-2023
+Product_72,Pro Product_72,Automotive,472.75,380,179645,3.18,0.14,Seller_A,72,25-04-2023
+Product_73,Max Product_73,Home & Kitchen,486.94,332,161664.08,4.82,0.18,Seller_B,73,31-08-2023
+Product_74,Super Product_74,Books,133.74,540,72219.6,3.24,0.21,Seller_C,74,30-05-2023
+Product_75,Max Product_75,Home & Kitchen,219,444,97236,3.7,0.01,Seller_C,75,15-06-2023
+Product_76,Max Product_76,Toys,456.13,889,405499.57,2.59,0.25,Seller_C,76,27-07-2023
+Product_77,Max Product_77,Books,155.6,383,59594.8,3.8,0.17,Seller_E,77,22-05-2023
+Product_78,Max Product_78,Electronics,32.36,449,14529.64,4.08,0.13,Seller_B,78,04-07-2023
+Product_79,Super Product_79,Automotive,102.64,715,73387.6,4.46,0.1,Seller_E,79,19-02-2023
+Product_80,Eco Product_80,Sports,492.05,614,302118.7,4.09,0.27,Seller_B,80,16-08-2023
+Product_81,Pro Product_81,Books,340.92,116,39546.72,4.87,0.25,Seller_E,81,10-03-2023
+Product_82,Pro Product_82,Beauty,245.3,741,181767.3,2.21,0.06,Seller_E,82,22-05-2023
+Product_83,Ultra Product_83,Home & Kitchen,199.43,301,60028.43,4.15,0.23,Seller_B,83,10-02-2023
+Product_84,Ultra Product_84,Automotive,253.44,694,175887.36,1.02,0.07,Seller_B,84,07-08-2023
+Product_85,Pro Product_85,Automotive,361.92,155,56097.6,3.09,0.2,Seller_B,85,06-09-2023
+Product_86,Super Product_86,Automotive,396.09,57,22577.13,4.22,0.26,Seller_B,86,19-10-2023
+Product_87,Super Product_87,Clothing,218.18,900,196362,4.17,0.01,Seller_D,87,30-06-2023
+Product_88,Pro Product_88,Toys,376.42,531,199879.02,2.69,0.3,Seller_C,88,27-06-2023
+Product_89,Max Product_89,Electronics,363.49,907,329685.43,3.03,0.06,Seller_E,89,29-10-2023
+Product_90,Eco Product_90,Clothing,444.13,177,78611.01,1,0.1,Seller_B,90,03-03-2023
+Product_91,Super Product_91,Automotive,243.29,448,108993.92,3.2,0.09,Seller_C,91,27-07-2023
+Product_92,Max Product_92,Electronics,179.15,416,74526.4,3.51,0.3,Seller_B,92,22-02-2023
+Product_93,Max Product_93,Beauty,239.12,213,50932.56,4.07,0.1,Seller_E,93,23-12-2023
+Product_94,Pro Product_94,Clothing,123.11,972,119662.92,5,0.19,Seller_B,94,22-08-2023
+Product_95,Eco Product_95,Clothing,173.09,655,113373.95,1.46,0.14,Seller_D,95,23-01-2023
+Product_96,Eco Product_96,Books,477.31,838,399985.78,4.1,0.27,Seller_A,96,29-06-2023
+Product_97,Max Product_97,Automotive,139.37,27,3762.99,2.36,0.05,Seller_D,97,02-03-2023
+Product_98,Pro Product_98,Books,307.18,865,265710.7,3.21,0.2,Seller_C,98,19-10-2023
+Product_99,Eco Product_99,Sports,332.37,625,207731.25,3.91,0.04,Seller_D,99,12-03-2023
+Product_100,Ultra Product_100,Toys,158.21,475,75149.75,4.93,0.11,Seller_A,100,22-10-2023
+Product_101,Pro Product_101,Electronics,46.13,881,40640.53,2.69,0.15,Seller_D,101,16-02-2023
+Product_102,Max Product_102,Home & Kitchen,296.03,32,9472.96,4.21,0.26,Seller_D,102,18-03-2023
+Product_103,Ultra Product_103,Sports,154.77,619,95802.63,1.82,0.22,Seller_B,103,03-08-2023
+Product_104,Max Product_104,Home & Kitchen,48.18,896,43169.28,1.6,0.1,Seller_E,104,08-09-2023
+Product_105,Ultra Product_105,Sports,29.53,586,17304.58,1.41,0.26,Seller_B,105,15-08-2023
+Product_106,Super Product_106,Sports,476.64,349,166347.36,1.51,0.13,Seller_E,106,02-11-2023
+Product_107,Max Product_107,Toys,349.65,615,215034.75,1.85,0.19,Seller_C,107,31-08-2023
+Product_108,Max Product_108,Sports,161.08,214,34471.12,4.94,0.11,Seller_D,108,27-02-2023
+Product_109,Super Product_109,Toys,12.88,442,5692.96,3.73,0.2,Seller_B,109,16-07-2023
+Product_110,Super Product_110,Books,489.73,575,281594.75,1.07,0.13,Seller_A,110,06-09-2023
+Product_111,Eco Product_111,Automotive,479.37,796,381578.52,3.49,0.24,Seller_B,111,21-08-2023
+Product_112,Max Product_112,Clothing,293.28,467,136961.76,1.87,0.15,Seller_A,112,20-01-2023
+Product_113,Super Product_113,Beauty,221.73,721,159867.33,4.75,0.22,Seller_A,113,12-10-2023
+Product_114,Max Product_114,Sports,187.1,103,19271.3,3.38,0.07,Seller_E,114,02-04-2023
+Product_115,Pro Product_115,Home & Kitchen,222.36,13,2890.68,1.83,0.08,Seller_E,115,15-12-2023
+Product_116,Pro Product_116,Clothing,71.54,48,3433.92,2.97,0.1,Seller_B,116,06-10-2023
+Product_117,Max Product_117,Sports,52.95,338,17897.1,3.52,0.18,Seller_C,117,24-11-2023
+Product_118,Pro Product_118,Sports,130.02,696,90493.92,4.12,0.3,Seller_E,118,01-02-2023
+Product_119,Ultra Product_119,Electronics,120.59,828,99848.52,1.15,0.02,Seller_E,119,18-08-2023
+Product_120,Eco Product_120,Sports,47.2,778,36721.6,3.93,0.18,Seller_B,120,27-06-2023
+Product_121,Pro Product_121,Electronics,445.78,168,74891.04,3.75,0.19,Seller_C,121,19-07-2023
+Product_122,Eco Product_122,Toys,367.46,725,266408.5,1.25,0.05,Seller_C,122,01-08-2023
+Product_123,Pro Product_123,Automotive,291.48,919,267870.12,3.74,0.23,Seller_D,123,24-04-2023
+Product_124,Eco Product_124,Electronics,382.85,541,207121.85,4.58,0.14,Seller_B,124,08-08-2023
+Product_125,Max Product_125,Beauty,114.63,719,82418.97,1.14,0.18,Seller_D,125,20-06-2023
+Product_126,Super Product_126,Sports,371.88,268,99663.84,2.49,0.04,Seller_B,126,06-10-2023
+Product_127,Max Product_127,Beauty,103.97,253,26304.41,3.22,0.27,Seller_A,127,13-08-2023
+Product_128,Eco Product_128,Home & Kitchen,262.15,486,127404.9,2.7,0.03,Seller_A,128,16-07-2023
+Product_129,Eco Product_129,Electronics,490.49,841,412502.09,2.74,0.05,Seller_B,129,23-07-2023
+Product_130,Pro Product_130,Clothing,226.19,710,160594.9,4.54,0.28,Seller_B,130,10-04-2023
+Product_131,Eco Product_131,Toys,276.17,705,194699.85,2.9,0.02,Seller_C,131,22-04-2023
+Product_132,Ultra Product_132,Books,354.33,6,2125.98,1.12,0.12,Seller_C,132,22-02-2023
+Product_133,Pro Product_133,Beauty,23.27,480,11169.6,2.58,0.17,Seller_D,133,30-01-2023
+Product_134,Eco Product_134,Books,353.88,442,156414.96,1.02,0.27,Seller_A,134,21-10-2023
+Product_135,Ultra Product_135,Sports,305.61,542,165640.62,2.57,0.3,Seller_C,135,29-09-2023
+Product_136,Super Product_136,Beauty,208.25,437,91005.25,1.92,0.13,Seller_A,136,16-03-2023
+Product_137,Eco Product_137,Clothing,335.08,777,260357.16,4.23,0.2,Seller_A,137,11-11-2023
+Product_138,Ultra Product_138,Home & Kitchen,313.5,575,180262.5,1.81,0.07,Seller_B,138,11-05-2023
+Product_139,Pro Product_139,Sports,281.52,714,201005.28,2.9,0.22,Seller_C,139,10-06-2023
+Product_140,Super Product_140,Clothing,293.51,903,265039.53,2.78,0.21,Seller_E,140,24-03-2023
+Product_141,Eco Product_141,Sports,313.67,503,157776.01,3.27,0.24,Seller_C,141,14-06-2023
+Product_142,Eco Product_142,Clothing,48.37,128,6191.36,2.19,0.15,Seller_E,142,19-12-2023
+Product_143,Pro Product_143,Books,341.4,380,129732,1.42,0.26,Seller_E,143,03-09-2023
+Product_144,Ultra Product_144,Clothing,12,303,3636,1.05,0.24,Seller_C,144,22-02-2023
+Product_145,Max Product_145,Books,224.98,981,220705.38,2.77,0.11,Seller_E,145,27-10-2023
+Product_146,Pro Product_146,Electronics,12.39,19,235.41,2.76,0.09,Seller_D,146,24-01-2023
+Product_147,Pro Product_147,Beauty,111.96,221,24743.16,4.88,0.27,Seller_C,147,30-07-2023
+Product_148,Max Product_148,Toys,54.86,292,16019.12,2.89,0,Seller_D,148,03-04-2023
+Product_149,Eco Product_149,Home & Kitchen,63.7,643,40959.1,3.61,0.07,Seller_A,149,06-09-2023
+Product_150,Eco Product_150,Beauty,322.47,964,310861.08,1.78,0.28,Seller_A,150,12-02-2023
+Product_151,Super Product_151,Automotive,140.08,254,35580.32,2.01,0,Seller_A,151,01-10-2023
+Product_152,Eco Product_152,Beauty,152.16,947,144095.52,4,0.14,Seller_C,152,06-12-2023
+Product_153,Super Product_153,Home & Kitchen,101.96,420,42823.2,4.75,0.14,Seller_B,153,24-02-2023
+Product_154,Pro Product_154,Toys,290.45,603,175141.35,1.17,0.22,Seller_A,154,24-12-2023
+Product_155,Max Product_155,Beauty,480.52,74,35558.48,2.71,0.1,Seller_A,155,21-04-2023
+Product_156,Max Product_156,Beauty,101.95,640,65248,2.13,0.17,Seller_D,156,29-05-2023
+Product_157,Eco Product_157,Home & Kitchen,5.17,543,2807.31,4.01,0.22,Seller_E,157,08-05-2023
+Product_158,Eco Product_158,Home & Kitchen,406.55,956,388661.8,4.77,0.14,Seller_D,158,17-09-2023
+Product_159,Super Product_159,Toys,47.11,534,25156.74,4.35,0.24,Seller_A,159,28-05-2023
+Product_160,Eco Product_160,Sports,442.43,85,37606.55,3.61,0.15,Seller_C,160,29-04-2023
+Product_161,Ultra Product_161,Toys,23.37,884,20659.08,2.92,0.17,Seller_C,161,27-08-2023
+Product_162,Ultra Product_162,Books,256.59,694,178073.46,1.34,0.08,Seller_A,162,18-10-2023
+Product_163,Pro Product_163,Electronics,151.73,494,74954.62,3.54,0.16,Seller_D,163,24-10-2023
+Product_164,Max Product_164,Automotive,279.94,127,35552.38,3.31,0.2,Seller_B,164,22-12-2023
+Product_165,Ultra Product_165,Beauty,41.34,326,13476.84,3.72,0.21,Seller_C,165,25-10-2023
+Product_166,Ultra Product_166,Toys,391.88,425,166549,3.12,0.06,Seller_C,166,01-03-2023
+Product_167,Max Product_167,Automotive,347.92,650,226148,3.94,0.05,Seller_A,167,26-11-2023
+Product_168,Super Product_168,Clothing,416.49,867,361096.83,1.89,0.21,Seller_A,168,12-10-2023
+Product_169,Super Product_169,Books,71.06,405,28779.3,2.49,0.28,Seller_A,169,24-08-2023
+Product_170,Ultra Product_170,Toys,424.45,564,239389.8,3.69,0.22,Seller_B,170,01-08-2023
+Product_171,Super Product_171,Electronics,374.01,80,29920.8,1.37,0.08,Seller_E,171,08-11-2023
+Product_172,Eco Product_172,Automotive,311.52,399,124296.48,1.07,0.11,Seller_A,172,19-04-2023
+Product_173,Eco Product_173,Automotive,219.35,899,197195.65,4.52,0.23,Seller_B,173,02-09-2023
+Product_174,Eco Product_174,Home & Kitchen,240.77,842,202728.34,3.56,0.02,Seller_D,174,19-07-2023
+Product_175,Super Product_175,Home & Kitchen,439.37,879,386206.23,2.61,0,Seller_A,175,13-12-2023
+Product_176,Max Product_176,Automotive,295.29,738,217924.02,1.69,0.13,Seller_B,176,05-05-2023
+Product_177,Eco Product_177,Electronics,393.24,780,306727.2,3.62,0.05,Seller_C,177,01-09-2023
+Product_178,Pro Product_178,Automotive,143.22,446,63876.12,4.29,0.28,Seller_D,178,02-05-2023
+Product_179,Ultra Product_179,Clothing,448.76,225,100971,3.84,0.18,Seller_B,179,21-01-2023
+Product_180,Super Product_180,Beauty,389.57,589,229456.73,3.42,0.23,Seller_B,180,29-11-2023
+Product_181,Eco Product_181,Automotive,186.23,516,96094.68,2.94,0.02,Seller_B,181,23-01-2023
+Product_182,Ultra Product_182,Books,183.27,975,178688.25,3.89,0.16,Seller_E,182,01-03-2023
+Product_183,Pro Product_183,Sports,46.17,869,40121.73,2.14,0.28,Seller_C,183,31-03-2023
+Product_184,Max Product_184,Toys,84.81,365,30955.65,3.59,0.11,Seller_B,184,19-08-2023
+Product_185,Super Product_185,Clothing,266.41,720,191815.2,4.11,0.29,Seller_E,185,10-12-2023
+Product_186,Super Product_186,Electronics,417.56,582,243019.92,1.29,0.1,Seller_A,186,11-11-2023
+Product_187,Eco Product_187,Books,458.02,547,250536.94,1.44,0.09,Seller_D,187,24-08-2023
+Product_188,Ultra Product_188,Automotive,40.19,940,37778.6,3.03,0.17,Seller_E,188,24-08-2023
+Product_189,Super Product_189,Sports,378.93,316,119741.88,3.3,0.21,Seller_E,189,21-12-2023
+Product_190,Pro Product_190,Books,195.18,484,94467.12,3.01,0.12,Seller_B,190,18-01-2023
+Product_191,Eco Product_191,Home & Kitchen,189.22,404,76444.88,2.54,0.15,Seller_B,191,16-01-2023
+Product_192,Ultra Product_192,Electronics,13.2,237,3128.4,1.02,0.22,Seller_D,192,05-05-2023
+Product_193,Ultra Product_193,Electronics,5.24,640,3353.6,1.12,0.07,Seller_C,193,24-09-2023
+Product_194,Eco Product_194,Clothing,93.3,344,32095.2,4.95,0.04,Seller_D,194,09-09-2023
+Product_195,Eco Product_195,Home & Kitchen,396.91,613,243305.83,1.57,0.01,Seller_A,195,18-02-2023
+Product_196,Ultra Product_196,Beauty,404.66,31,12544.46,2.43,0.28,Seller_B,196,23-03-2023
+Product_197,Max Product_197,Sports,80.51,245,19724.95,3.71,0.08,Seller_C,197,02-06-2023
+Product_198,Max Product_198,Beauty,189.53,817,154846.01,4.51,0.18,Seller_B,198,23-03-2023
+Product_199,Ultra Product_199,Beauty,485.2,883,428431.6,2.88,0.21,Seller_E,199,02-11-2023
+Product_200,Pro Product_200,Clothing,235.69,356,83905.64,4.67,0.17,Seller_E,200,03-08-2023
+Product_201,Super Product_201,Clothing,149,757,112793,1.44,0.12,Seller_A,201,13-08-2023
+Product_202,Eco Product_202,Electronics,436.1,175,76317.5,1.42,0.25,Seller_E,202,22-06-2023
+Product_203,Eco Product_203,Automotive,420.54,54,22709.16,4.4,0.28,Seller_A,203,11-06-2023
+Product_204,Max Product_204,Automotive,67.63,510,34491.3,4.82,0.04,Seller_A,204,19-02-2023
+Product_205,Ultra Product_205,Sports,480.17,279,133967.43,4.54,0.23,Seller_A,205,31-08-2023
+Product_206,Ultra Product_206,Sports,303.97,515,156544.55,3.45,0.25,Seller_D,206,24-09-2023
+Product_207,Max Product_207,Beauty,368.65,946,348742.9,1.68,0.24,Seller_E,207,13-08-2023
+Product_208,Pro Product_208,Home & Kitchen,225.13,199,44800.87,4.92,0.22,Seller_B,208,21-01-2023
+Product_209,Eco Product_209,Electronics,34.11,876,29880.36,1.62,0.11,Seller_B,209,08-03-2023
+Product_210,Super Product_210,Sports,347.03,62,21515.86,1.54,0.28,Seller_D,210,21-07-2023
+Product_211,Super Product_211,Electronics,327.28,531,173785.68,3.97,0.13,Seller_A,211,02-03-2023
+Product_212,Max Product_212,Books,84.32,208,17538.56,1.21,0.04,Seller_B,212,27-11-2023
+Product_213,Super Product_213,Clothing,256.16,225,57636,2.82,0.17,Seller_D,213,25-02-2023
+Product_214,Super Product_214,Sports,359.3,339,121802.7,2.09,0.27,Seller_D,214,23-02-2023
+Product_215,Max Product_215,Clothing,483.64,888,429472.32,3.6,0.1,Seller_D,215,18-11-2023
+Product_216,Super Product_216,Electronics,226.53,839,190058.67,3.31,0.06,Seller_D,216,16-08-2023
+Product_217,Ultra Product_217,Electronics,181.52,76,13795.52,3.38,0.28,Seller_C,217,05-05-2023
+Product_218,Max Product_218,Electronics,401.44,172,69047.68,4.39,0.12,Seller_B,218,19-07-2023
+Product_219,Max Product_219,Sports,162.83,737,120005.71,2.97,0.26,Seller_D,219,24-06-2023
+Product_220,Max Product_220,Toys,19.42,214,4155.88,2.41,0.24,Seller_A,220,26-10-2023
+Product_221,Ultra Product_221,Sports,273.57,14,3829.98,2.58,0,Seller_D,221,04-11-2023
+Product_222,Ultra Product_222,Automotive,333.35,372,124006.2,3.1,0.23,Seller_C,222,16-08-2023
+Product_223,Super Product_223,Home & Kitchen,285.21,110,31373.1,2.18,0.05,Seller_C,223,15-05-2023
+Product_224,Ultra Product_224,Books,185.14,437,80906.18,2.49,0.13,Seller_A,224,29-01-2023
+Product_225,Max Product_225,Automotive,186.18,285,53061.3,1.74,0.29,Seller_C,225,16-10-2023
+Product_226,Max Product_226,Beauty,162.44,677,109971.88,3.36,0.22,Seller_C,226,04-04-2023
+Product_227,Eco Product_227,Sports,296.86,93,27607.98,3.19,0.02,Seller_A,227,08-10-2023
+Product_228,Eco Product_228,Sports,110.92,670,74316.4,4.87,0.2,Seller_E,228,26-09-2023
+Product_229,Ultra Product_229,Books,341.19,780,266128.2,1.03,0.08,Seller_D,229,08-07-2023
+Product_230,Super Product_230,Books,348.58,407,141872.06,2.34,0.11,Seller_D,230,04-02-2023
+Product_231,Pro Product_231,Beauty,356.26,691,246175.66,4.89,0.19,Seller_C,231,07-01-2023
+Product_232,Eco Product_232,Toys,320.63,594,190454.22,1.13,0.25,Seller_C,232,13-10-2023
+Product_233,Eco Product_233,Beauty,459.89,774,355954.86,4.31,0.27,Seller_E,233,28-06-2023
+Product_234,Max Product_234,Clothing,349.85,985,344602.25,1.86,0.14,Seller_A,234,02-08-2023
+Product_235,Ultra Product_235,Sports,13.57,235,3188.95,1.85,0.09,Seller_C,235,23-09-2023
+Product_236,Super Product_236,Books,327.12,276,90285.12,4.19,0.29,Seller_D,236,14-05-2023
+Product_237,Ultra Product_237,Beauty,55.34,939,51964.26,4.25,0.04,Seller_E,237,06-12-2023
+Product_238,Super Product_238,Electronics,197.83,433,85660.39,4.08,0.19,Seller_D,238,13-11-2023
+Product_239,Ultra Product_239,Toys,24.61,535,13166.35,2.05,0.2,Seller_D,239,05-07-2023
+Product_240,Pro Product_240,Electronics,176.09,902,158833.18,4.82,0.23,Seller_C,240,07-02-2023
+Product_241,Max Product_241,Toys,166.57,563,93778.91,4.76,0.23,Seller_E,241,23-05-2023
+Product_242,Max Product_242,Beauty,291.31,93,27091.83,4.5,0.1,Seller_C,242,04-02-2023
+Product_243,Super Product_243,Automotive,328.19,593,194616.67,3.4,0.21,Seller_D,243,18-10-2023
+Product_244,Max Product_244,Clothing,197.1,430,84753,2.58,0.26,Seller_C,244,21-06-2023
+Product_245,Max Product_245,Automotive,78.14,563,43992.82,4.12,0.24,Seller_A,245,01-11-2023
+Product_246,Pro Product_246,Electronics,15.5,580,8990,1.09,0.02,Seller_E,246,19-06-2023
+Product_247,Max Product_247,Automotive,398.43,98,39046.14,4.74,0.12,Seller_A,247,06-05-2023
+Product_248,Eco Product_248,Electronics,133.02,234,31126.68,1.05,0.18,Seller_D,248,06-11-2023
+Product_249,Eco Product_249,Toys,387.07,767,296882.69,1.01,0.05,Seller_D,249,27-01-2023
+Product_250,Max Product_250,Automotive,91.64,661,60574.04,3.31,0.02,Seller_B,250,08-11-2023
+Product_251,Super Product_251,Sports,320.91,622,199606.02,3.93,0.21,Seller_C,251,10-06-2023
+Product_252,Super Product_252,Electronics,381.95,681,260107.95,3.7,0.03,Seller_B,252,20-01-2023
+Product_253,Pro Product_253,Sports,105.46,407,42922.22,2.23,0.07,Seller_E,253,09-01-2023
+Product_254,Pro Product_254,Electronics,308.16,396,122031.36,2.18,0.22,Seller_E,254,08-02-2023
+Product_255,Max Product_255,Clothing,271.34,679,184239.86,1.53,0.16,Seller_D,255,04-10-2023
+Product_256,Ultra Product_256,Automotive,373.23,188,70167.24,2.69,0.09,Seller_E,256,07-02-2023
+Product_257,Ultra Product_257,Sports,160.8,135,21708,1.04,0.16,Seller_D,257,28-01-2023
+Product_258,Max Product_258,Beauty,463.48,859,398129.32,2.18,0.13,Seller_B,258,01-05-2023
+Product_259,Max Product_259,Books,259.73,156,40517.88,4.71,0.11,Seller_B,259,14-02-2023
+Product_260,Eco Product_260,Clothing,201.05,654,131486.7,2.8,0.12,Seller_C,260,12-01-2023
+Product_261,Max Product_261,Toys,288.3,65,18739.5,4.58,0.22,Seller_E,261,05-06-2023
+Product_262,Eco Product_262,Automotive,417.41,9,3756.69,2.05,0.04,Seller_C,262,01-06-2023
+Product_263,Pro Product_263,Electronics,480.94,407,195742.58,4.82,0.07,Seller_B,263,26-05-2023
+Product_264,Eco Product_264,Toys,172.17,145,24964.65,3.25,0.02,Seller_A,264,09-02-2023
+Product_265,Eco Product_265,Beauty,355.09,736,261346.24,4.02,0.01,Seller_E,265,25-06-2023
+Product_266,Super Product_266,Beauty,30.64,211,6465.04,1.39,0.15,Seller_C,266,26-11-2023
+Product_267,Super Product_267,Clothing,204.96,347,71121.12,1.41,0.27,Seller_A,267,06-09-2023
+Product_268,Ultra Product_268,Clothing,398.37,325,129470.25,1.75,0.22,Seller_E,268,12-05-2023
+Product_269,Ultra Product_269,Automotive,62.43,445,27781.35,2.07,0.18,Seller_C,269,25-09-2023
+Product_270,Pro Product_270,Books,158.63,513,81377.19,3.2,0.13,Seller_B,270,07-09-2023
+Product_271,Pro Product_271,Automotive,261.74,55,14395.7,2.21,0.07,Seller_C,271,05-09-2023
+Product_272,Ultra Product_272,Beauty,370.32,832,308106.24,2.26,0.12,Seller_A,272,15-06-2023
+Product_273,Super Product_273,Automotive,339.29,438,148609.02,1.99,0.09,Seller_A,273,02-04-2023
+Product_274,Eco Product_274,Beauty,231.29,944,218337.76,4.34,0.1,Seller_E,274,23-07-2023
+Product_275,Super Product_275,Books,173.76,388,67418.88,4.09,0.17,Seller_E,275,04-12-2023
+Product_276,Super Product_276,Sports,244.67,799,195491.33,4.96,0.26,Seller_D,276,03-08-2023
+Product_277,Ultra Product_277,Books,399.02,724,288890.48,3.35,0.06,Seller_A,277,24-05-2023
+Product_278,Ultra Product_278,Home & Kitchen,182.63,544,99350.72,2.97,0.18,Seller_E,278,22-10-2023
+Product_279,Max Product_279,Home & Kitchen,11.85,442,5237.7,1.45,0.27,Seller_A,279,26-03-2023
+Product_280,Max Product_280,Automotive,339.57,338,114774.66,2.97,0.27,Seller_A,280,11-10-2023
+Product_281,Max Product_281,Toys,316.92,217,68771.64,1.31,0.14,Seller_B,281,18-07-2023
+Product_282,Super Product_282,Toys,499.97,869,434473.93,4.9,0.16,Seller_B,282,17-02-2023
+Product_283,Pro Product_283,Automotive,370.23,389,144019.47,2.51,0.25,Seller_C,283,28-10-2023
+Product_284,Pro Product_284,Books,285.5,980,279790,1.03,0,Seller_A,284,12-10-2023
+Product_285,Eco Product_285,Toys,258.38,308,79581.04,1.91,0.26,Seller_C,285,20-03-2023
+Product_286,Super Product_286,Books,378.28,83,31397.24,3.01,0.29,Seller_E,286,13-09-2023
+Product_287,Super Product_287,Automotive,22.21,322,7151.62,3.39,0.06,Seller_E,287,27-07-2023
+Product_288,Max Product_288,Home & Kitchen,367.78,278,102242.84,4.65,0.16,Seller_C,288,11-04-2023
+Product_289,Max Product_289,Clothing,41.71,34,1418.14,4.09,0.05,Seller_A,289,08-06-2023
+Product_290,Ultra Product_290,Books,112.09,215,24099.35,1.24,0.07,Seller_E,290,29-09-2023
+Product_291,Ultra Product_291,Sports,349.54,802,280331.08,1.39,0.26,Seller_A,291,04-04-2023
+Product_292,Eco Product_292,Beauty,251,807,202557,4.55,0.28,Seller_B,292,22-08-2023
+Product_293,Eco Product_293,Home & Kitchen,255.32,44,11234.08,1.21,0.01,Seller_A,293,29-04-2023
+Product_294,Pro Product_294,Home & Kitchen,467.8,490,229222,1.7,0.16,Seller_C,294,03-10-2023
+Product_295,Super Product_295,Toys,404.12,979,395633.48,2.43,0.27,Seller_A,295,10-06-2023
+Product_296,Pro Product_296,Sports,301.97,399,120486.03,1.8,0.25,Seller_C,296,20-06-2023
+Product_297,Ultra Product_297,Sports,15.28,927,14164.56,1.78,0.14,Seller_D,297,12-09-2023
+Product_298,Ultra Product_298,Home & Kitchen,178.03,854,152037.62,2.24,0,Seller_A,298,29-01-2023
+Product_299,Eco Product_299,Books,37.76,20,755.2,1.02,0.16,Seller_B,299,25-06-2023
+Product_300,Super Product_300,Books,232.73,289,67258.97,1.94,0.16,Seller_A,300,16-06-2023
+Product_301,Eco Product_301,Books,218.68,748,163572.64,2.43,0.15,Seller_E,301,27-06-2023
+Product_302,Pro Product_302,Books,343.59,734,252195.06,1.86,0.25,Seller_E,302,08-02-2023
+Product_303,Super Product_303,Home & Kitchen,106.57,797,84936.29,3.91,0.09,Seller_D,303,18-04-2023
+Product_304,Max Product_304,Beauty,297.09,716,212716.44,4.87,0.04,Seller_E,304,01-08-2023
+Product_305,Ultra Product_305,Books,131.91,910,120038.1,4.21,0.03,Seller_D,305,10-09-2023
+Product_306,Super Product_306,Clothing,25.29,801,20257.29,1.64,0.05,Seller_D,306,24-07-2023
+Product_307,Super Product_307,Books,393.85,139,54745.15,3.05,0.27,Seller_C,307,24-08-2023
+Product_308,Ultra Product_308,Beauty,288.01,951,273897.51,2.5,0.29,Seller_D,308,03-08-2023
+Product_309,Eco Product_309,Sports,120.12,40,4804.8,1.34,0.03,Seller_D,309,05-03-2023
+Product_310,Eco Product_310,Automotive,387.08,194,75093.52,1.29,0.1,Seller_B,310,07-04-2023
+Product_311,Pro Product_311,Clothing,93.88,606,56891.28,2.61,0.04,Seller_C,311,04-07-2023
+Product_312,Max Product_312,Automotive,40.88,142,5804.96,1.76,0.29,Seller_C,312,15-12-2023
+Product_313,Eco Product_313,Toys,453.18,199,90182.82,3.04,0.2,Seller_A,313,28-02-2023
+Product_314,Ultra Product_314,Home & Kitchen,127.92,395,50528.4,4.45,0.05,Seller_C,314,05-03-2023
+Product_315,Max Product_315,Sports,214.3,148,31716.4,3.23,0.21,Seller_D,315,06-01-2023
+Product_316,Pro Product_316,Automotive,347.15,576,199958.4,3.15,0.3,Seller_E,316,30-05-2023
+Product_317,Pro Product_317,Clothing,447.16,644,287971.04,3.26,0.07,Seller_D,317,27-06-2023
+Product_318,Pro Product_318,Electronics,215.27,400,86108,2.36,0.12,Seller_B,318,20-03-2023
+Product_319,Ultra Product_319,Toys,150.61,90,13554.9,3.96,0.24,Seller_E,319,23-05-2023
+Product_320,Ultra Product_320,Sports,355.93,22,7830.46,4.73,0.28,Seller_A,320,06-09-2023
+Product_321,Super Product_321,Electronics,363.12,755,274155.6,4.18,0.23,Seller_B,321,02-11-2023
+Product_322,Max Product_322,Electronics,432.53,442,191178.26,4.46,0.11,Seller_D,322,08-04-2023
+Product_323,Pro Product_323,Home & Kitchen,255.13,150,38269.5,3.04,0.2,Seller_D,323,15-07-2023
+Product_324,Max Product_324,Automotive,284.92,76,21653.92,3.54,0.04,Seller_A,324,28-08-2023
+Product_325,Super Product_325,Automotive,102.43,144,14749.92,2.9,0.27,Seller_D,325,02-04-2023
+Product_326,Ultra Product_326,Toys,123.4,712,87860.8,1.23,0.06,Seller_B,326,03-11-2023
+Product_327,Eco Product_327,Toys,20.85,836,17430.6,2.64,0.11,Seller_D,327,22-05-2023
+Product_328,Pro Product_328,Electronics,497.05,83,41255.15,2.61,0.03,Seller_A,328,25-05-2023
+Product_329,Eco Product_329,Sports,481.87,374,180219.38,1.79,0.27,Seller_C,329,18-05-2023
+Product_330,Ultra Product_330,Electronics,37.97,873,33147.81,4.27,0.07,Seller_D,330,09-03-2023
+Product_331,Ultra Product_331,Home & Kitchen,446.33,383,170944.39,1.13,0.08,Seller_A,331,13-08-2023
+Product_332,Max Product_332,Books,25.63,407,10431.41,3.21,0.19,Seller_A,332,30-03-2023
+Product_333,Super Product_333,Beauty,173.25,689,119369.25,3.55,0.08,Seller_D,333,10-04-2023
+Product_334,Eco Product_334,Home & Kitchen,246.8,312,77001.6,1.87,0.2,Seller_B,334,02-04-2023
+Product_335,Eco Product_335,Books,185.57,759,140847.63,3.32,0.11,Seller_E,335,16-02-2023
+Product_336,Ultra Product_336,Sports,441.7,261,115283.7,2.71,0.08,Seller_B,336,13-08-2023
+Product_337,Super Product_337,Books,48.01,332,15939.32,1.4,0.13,Seller_E,337,06-05-2023
+Product_338,Eco Product_338,Beauty,195.8,827,161926.6,1.4,0.28,Seller_D,338,09-05-2023
+Product_339,Ultra Product_339,Sports,56.63,565,31995.95,4.98,0.13,Seller_E,339,11-10-2023
+Product_340,Max Product_340,Beauty,340.23,778,264698.94,4.4,0.25,Seller_D,340,01-10-2023
+Product_341,Eco Product_341,Home & Kitchen,356.75,406,144840.5,2.94,0.08,Seller_C,341,03-08-2023
+Product_342,Max Product_342,Sports,461.4,568,262075.2,3.23,0.3,Seller_D,342,16-09-2023
+Product_343,Ultra Product_343,Sports,161.88,69,11169.72,3.58,0.09,Seller_D,343,23-06-2023
+Product_344,Pro Product_344,Home & Kitchen,430.03,573,246407.19,3.88,0.09,Seller_E,344,06-05-2023
+Product_345,Max Product_345,Automotive,353.09,590,208323.1,3.48,0.14,Seller_C,345,17-08-2023
+Product_346,Super Product_346,Sports,257.74,82,21134.68,2.74,0.11,Seller_D,346,05-04-2023
+Product_347,Max Product_347,Home & Kitchen,134.09,463,62083.67,2.1,0.25,Seller_C,347,22-05-2023
+Product_348,Ultra Product_348,Toys,124.34,413,51352.42,2.74,0.24,Seller_A,348,14-03-2023
+Product_349,Max Product_349,Books,239.05,707,169008.35,4.04,0.1,Seller_B,349,27-08-2023
+Product_350,Super Product_350,Automotive,66.22,857,56750.54,1.12,0.2,Seller_E,350,16-11-2023
+Product_351,Super Product_351,Toys,271.14,82,22233.48,2.34,0.14,Seller_B,351,18-12-2023
+Product_352,Pro Product_352,Home & Kitchen,428.29,120,51394.8,4.15,0.26,Seller_C,352,11-04-2023
+Product_353,Ultra Product_353,Sports,64.57,912,58887.84,1.3,0.22,Seller_D,353,20-10-2023
+Product_354,Eco Product_354,Clothing,363.33,171,62129.43,4.31,0.27,Seller_C,354,03-10-2023
+Product_355,Pro Product_355,Clothing,325.57,884,287803.88,1,0.14,Seller_D,355,18-02-2023
+Product_356,Pro Product_356,Automotive,454.7,519,235989.3,1.93,0.22,Seller_E,356,29-03-2023
+Product_357,Eco Product_357,Beauty,105.2,605,63646,4.34,0.1,Seller_C,357,18-04-2023
+Product_358,Super Product_358,Electronics,133.54,270,36055.8,3.46,0.3,Seller_A,358,05-07-2023
+Product_359,Ultra Product_359,Books,314.81,810,254996.1,1.16,0.17,Seller_C,359,14-04-2023
+Product_360,Max Product_360,Clothing,240.27,760,182605.2,1.34,0.12,Seller_A,360,24-08-2023
+Product_361,Max Product_361,Clothing,152.31,770,117278.7,2.64,0.14,Seller_C,361,03-01-2023
+Product_362,Super Product_362,Home & Kitchen,449.89,696,313123.44,4.38,0.17,Seller_C,362,03-01-2023
+Product_363,Eco Product_363,Electronics,156.07,786,122671.02,1.4,0.27,Seller_E,363,28-04-2023
+Product_364,Pro Product_364,Electronics,393.63,499,196421.37,2.5,0.2,Seller_B,364,25-02-2023
+Product_365,Eco Product_365,Clothing,291.64,258,75243.12,1.7,0.14,Seller_E,365,25-08-2023
+Product_366,Eco Product_366,Electronics,241.25,398,96017.5,1.49,0.03,Seller_B,366,13-06-2023
+Product_367,Super Product_367,Toys,304.55,486,148011.3,2.31,0.04,Seller_B,367,04-02-2023
+Product_368,Super Product_368,Toys,347.13,353,122536.89,1.39,0.27,Seller_B,368,24-12-2023
+Product_369,Max Product_369,Toys,125.28,637,79803.36,4.06,0.02,Seller_E,369,22-01-2023
+Product_370,Pro Product_370,Automotive,120.6,995,119997,3.59,0.2,Seller_D,370,13-06-2023
+Product_371,Max Product_371,Beauty,370.26,522,193275.72,2.4,0.19,Seller_A,371,17-10-2023
+Product_372,Ultra Product_372,Toys,38.98,674,26272.52,4.01,0.05,Seller_A,372,17-05-2023
+Product_373,Max Product_373,Beauty,407.47,601,244889.47,4.52,0.3,Seller_A,373,26-02-2023
+Product_374,Pro Product_374,Automotive,108.48,132,14319.36,1.4,0.29,Seller_D,374,02-09-2023
+Product_375,Max Product_375,Beauty,140.07,156,21850.92,3.89,0.05,Seller_E,375,02-10-2023
+Product_376,Pro Product_376,Sports,380.47,625,237793.75,2.06,0.25,Seller_C,376,05-09-2023
+Product_377,Super Product_377,Beauty,207.09,217,44938.53,1.82,0.23,Seller_C,377,11-04-2023
+Product_378,Max Product_378,Automotive,324.99,326,105946.74,3.96,0.2,Seller_B,378,16-02-2023
+Product_379,Eco Product_379,Beauty,409.43,346,141662.78,4.4,0.29,Seller_A,379,23-03-2023
+Product_380,Eco Product_380,Home & Kitchen,238.41,168,40052.88,1.95,0.19,Seller_A,380,03-09-2023
+Product_381,Pro Product_381,Electronics,426.76,846,361038.96,2.9,0.26,Seller_A,381,14-09-2023
+Product_382,Ultra Product_382,Automotive,297.78,980,291824.4,4.25,0.16,Seller_B,382,11-12-2023
+Product_383,Super Product_383,Home & Kitchen,226.34,759,171792.06,2.41,0.17,Seller_E,383,20-01-2023
+Product_384,Super Product_384,Toys,472.52,594,280676.88,2.15,0.01,Seller_D,384,06-12-2023
+Product_385,Ultra Product_385,Electronics,466.44,786,366621.84,1.51,0.12,Seller_D,385,09-04-2023
+Product_386,Pro Product_386,Sports,334.31,42,14041.02,4.36,0.29,Seller_E,386,31-10-2023
+Product_387,Pro Product_387,Beauty,50.46,136,6862.56,2.68,0.28,Seller_B,387,24-01-2023
+Product_388,Ultra Product_388,Beauty,472.84,67,31680.28,2.66,0.25,Seller_D,388,20-10-2023
+Product_389,Pro Product_389,Electronics,484.33,529,256210.57,4.77,0.22,Seller_C,389,01-05-2023
+Product_390,Pro Product_390,Sports,344.34,167,57504.78,3.59,0.09,Seller_A,390,20-05-2023
+Product_391,Ultra Product_391,Sports,448.96,243,109097.28,4.73,0.29,Seller_B,391,06-08-2023
+Product_392,Eco Product_392,Home & Kitchen,394.33,548,216092.84,1.26,0.2,Seller_E,392,18-08-2023
+Product_393,Ultra Product_393,Electronics,144.43,674,97345.82,1.86,0.21,Seller_C,393,09-03-2023
+Product_394,Pro Product_394,Home & Kitchen,216.22,148,32000.56,1.36,0.26,Seller_C,394,31-03-2023
+Product_395,Pro Product_395,Toys,409.5,934,382473,1.28,0.23,Seller_C,395,17-01-2023
+Product_396,Ultra Product_396,Clothing,435.75,103,44882.25,3.04,0.03,Seller_A,396,30-08-2023
+Product_397,Super Product_397,Electronics,274.92,523,143783.16,3.47,0.3,Seller_A,397,09-03-2023
+Product_398,Eco Product_398,Toys,294.99,26,7669.74,4.28,0.19,Seller_B,398,06-05-2023
+Product_399,Max Product_399,Books,458.8,827,379427.6,1.03,0.14,Seller_A,399,23-11-2023
+Product_400,Super Product_400,Home & Kitchen,53.84,560,30150.4,3.9,0.02,Seller_B,400,27-11-2023
+Product_401,Super Product_401,Toys,485.97,555,269713.35,3.88,0.01,Seller_E,401,15-06-2023
+Product_402,Pro Product_402,Automotive,72.52,633,45905.16,4.16,0.26,Seller_D,402,12-06-2023
+Product_403,Super Product_403,Clothing,193.06,225,43438.5,2.43,0.18,Seller_D,403,06-05-2023
+Product_404,Ultra Product_404,Sports,251.99,336,84668.64,4.56,0.2,Seller_C,404,09-06-2023
+Product_405,Super Product_405,Automotive,457.75,56,25634,1.75,0.14,Seller_C,405,08-05-2023
+Product_406,Max Product_406,Clothing,368.38,611,225080.18,3.96,0.02,Seller_E,406,15-04-2023
+Product_407,Pro Product_407,Electronics,72.95,760,55442,4.78,0.03,Seller_A,407,16-03-2023
+Product_408,Super Product_408,Automotive,242.43,818,198307.74,4.43,0.3,Seller_C,408,07-04-2023
+Product_409,Max Product_409,Electronics,463.29,59,27334.11,2.15,0.25,Seller_A,409,13-03-2023
+Product_410,Super Product_410,Automotive,88.95,506,45008.7,4.05,0.29,Seller_D,410,04-09-2023
+Product_411,Pro Product_411,Books,282.32,455,128455.6,4.41,0.22,Seller_B,411,23-06-2023
+Product_412,Super Product_412,Beauty,326.81,25,8170.25,4.92,0.05,Seller_D,412,10-12-2023
+Product_413,Ultra Product_413,Books,55.18,668,36860.24,2.25,0.11,Seller_D,413,25-07-2023
+Product_414,Pro Product_414,Home & Kitchen,22.05,659,14530.95,4.27,0.2,Seller_C,414,21-07-2023
+Product_415,Ultra Product_415,Books,313.72,605,189800.6,3.83,0.01,Seller_A,415,14-06-2023
+Product_416,Max Product_416,Beauty,168.64,357,60204.48,3.84,0.29,Seller_B,416,22-12-2023
+Product_417,Ultra Product_417,Sports,255.82,220,56280.4,2.69,0.24,Seller_C,417,29-03-2023
+Product_418,Ultra Product_418,Automotive,68,741,50388,1.95,0.26,Seller_A,418,13-01-2023
+Product_419,Eco Product_419,Automotive,393.76,753,296501.28,1.38,0.15,Seller_A,419,24-05-2023
+Product_420,Ultra Product_420,Home & Kitchen,347.69,309,107436.21,1.74,0.2,Seller_C,420,12-01-2023
+Product_421,Max Product_421,Sports,6.41,782,5012.62,4.67,0.13,Seller_A,421,01-09-2023
+Product_422,Ultra Product_422,Books,279,111,30969,2.31,0.07,Seller_C,422,26-07-2023
+Product_423,Max Product_423,Home & Kitchen,149.72,106,15870.32,2,0.23,Seller_A,423,05-05-2023
+Product_424,Super Product_424,Electronics,330.83,938,310318.54,2.11,0.09,Seller_D,424,07-09-2023
+Product_425,Eco Product_425,Beauty,15.86,937,14860.82,2.77,0.24,Seller_A,425,03-12-2023
+Product_426,Ultra Product_426,Home & Kitchen,287.81,983,282917.23,3.1,0.19,Seller_D,426,15-03-2023
+Product_427,Super Product_427,Sports,299.76,538,161270.88,1.42,0.23,Seller_E,427,31-05-2023
+Product_428,Ultra Product_428,Electronics,249.94,895,223696.3,3.22,0.17,Seller_C,428,02-06-2023
+Product_429,Pro Product_429,Sports,136.57,474,64734.18,3.35,0,Seller_C,429,02-08-2023
+Product_430,Eco Product_430,Toys,83.57,785,65602.45,4.56,0.03,Seller_A,430,17-04-2023
+Product_431,Max Product_431,Clothing,264.5,93,24598.5,1.35,0.18,Seller_A,431,01-01-2023
+Product_432,Ultra Product_432,Electronics,329.44,704,231925.76,2.59,0.21,Seller_B,432,12-07-2023
+Product_433,Ultra Product_433,Home & Kitchen,17.78,297,5280.66,2.9,0.17,Seller_A,433,17-10-2023
+Product_434,Super Product_434,Electronics,82.66,420,34717.2,3.71,0.1,Seller_A,434,11-05-2023
+Product_435,Ultra Product_435,Electronics,341.8,626,213966.8,3.33,0.23,Seller_E,435,02-10-2023
+Product_436,Pro Product_436,Beauty,77.63,244,18941.72,2.85,0.18,Seller_A,436,07-09-2023
+Product_437,Ultra Product_437,Electronics,224.03,881,197370.43,2.1,0.16,Seller_C,437,13-12-2023
+Product_438,Max Product_438,Books,379.37,362,137331.94,4.79,0.15,Seller_C,438,14-08-2023
+Product_439,Max Product_439,Home & Kitchen,424.3,130,55159,3.17,0.22,Seller_B,439,27-01-2023
+Product_440,Max Product_440,Automotive,18.89,309,5837.01,3.59,0.27,Seller_A,440,24-11-2023
+Product_441,Pro Product_441,Clothing,139.3,746,103917.8,2.97,0.11,Seller_C,441,05-01-2023
+Product_442,Max Product_442,Home & Kitchen,163.52,88,14389.76,3.59,0.29,Seller_A,442,30-04-2023
+Product_443,Pro Product_443,Automotive,162.54,826,134258.04,2.45,0.14,Seller_E,443,11-11-2023
+Product_444,Super Product_444,Home & Kitchen,436.03,474,206678.22,1.34,0.26,Seller_C,444,27-04-2023
+Product_445,Max Product_445,Sports,152.29,87,13249.23,2.81,0.25,Seller_A,445,02-09-2023
+Product_446,Super Product_446,Books,262.66,702,184387.32,1.16,0.22,Seller_E,446,26-03-2023
+Product_447,Super Product_447,Clothing,247.67,421,104269.07,2.07,0.06,Seller_D,447,03-07-2023
+Product_448,Pro Product_448,Clothing,74.33,376,27948.08,2.9,0.06,Seller_C,448,23-05-2023
+Product_449,Eco Product_449,Toys,189.66,149,28259.34,1.99,0.04,Seller_D,449,01-02-2023
+Product_450,Max Product_450,Automotive,197.71,650,128511.5,1.1,0.01,Seller_E,450,06-03-2023
+Product_451,Max Product_451,Toys,171.41,311,53308.51,2.68,0.01,Seller_B,451,01-02-2023
+Product_452,Ultra Product_452,Clothing,140.28,270,37875.6,2.29,0.1,Seller_B,452,08-03-2023
+Product_453,Eco Product_453,Automotive,448.59,994,445898.46,3.7,0.1,Seller_A,453,06-11-2023
+Product_454,Super Product_454,Electronics,84.81,621,52667.01,1.42,0.02,Seller_A,454,20-04-2023
+Product_455,Max Product_455,Electronics,336.8,831,279880.8,2.31,0.15,Seller_E,455,28-06-2023
+Product_456,Pro Product_456,Electronics,33.99,269,9143.31,2.42,0.15,Seller_B,456,06-09-2023
+Product_457,Eco Product_457,Electronics,299.28,136,40702.08,3.5,0.13,Seller_A,457,06-03-2023
+Product_458,Super Product_458,Toys,269.7,100,26970,3.94,0.22,Seller_A,458,28-01-2023
+Product_459,Ultra Product_459,Beauty,80.41,987,79364.67,3.33,0.29,Seller_B,459,21-03-2023
+Product_460,Max Product_460,Electronics,199.26,343,68346.18,3.8,0.3,Seller_E,460,01-11-2023
+Product_461,Super Product_461,Electronics,396.45,210,83254.5,3.19,0.08,Seller_A,461,02-08-2023
+Product_462,Eco Product_462,Clothing,69.63,788,54868.44,3.84,0.16,Seller_A,462,11-05-2023
+Product_463,Super Product_463,Automotive,234.36,330,77338.8,2.78,0.18,Seller_D,463,04-11-2023
+Product_464,Super Product_464,Electronics,125.95,131,16499.45,4.27,0.19,Seller_A,464,12-04-2023
+Product_465,Pro Product_465,Clothing,424.31,87,36914.97,2.18,0.22,Seller_B,465,29-12-2023
+Product_466,Eco Product_466,Home & Kitchen,387.89,958,371598.62,4.81,0.18,Seller_D,466,11-02-2023
+Product_467,Pro Product_467,Home & Kitchen,346.03,51,17647.53,3.61,0.04,Seller_E,467,12-03-2023
+Product_468,Eco Product_468,Clothing,433.69,100,43369,1.65,0.11,Seller_D,468,21-12-2023
+Product_469,Pro Product_469,Clothing,243.92,186,45369.12,3.5,0.13,Seller_D,469,25-07-2023
+Product_470,Pro Product_470,Toys,187.72,363,68142.36,1.79,0.09,Seller_C,470,11-04-2023
+Product_471,Pro Product_471,Electronics,170.83,692,118214.36,3.58,0.2,Seller_C,471,01-12-2023
+Product_472,Pro Product_472,Toys,249.57,924,230602.68,2.53,0.13,Seller_A,472,09-01-2023
+Product_473,Pro Product_473,Toys,314.99,79,24884.21,3.04,0.25,Seller_D,473,02-07-2023
+Product_474,Super Product_474,Beauty,409.6,492,201523.2,4.93,0.07,Seller_C,474,11-01-2023
+Product_475,Eco Product_475,Automotive,311.4,554,172515.6,2.6,0.15,Seller_C,475,02-07-2023
+Product_476,Pro Product_476,Beauty,156.27,40,6250.8,4.91,0.22,Seller_D,476,02-10-2023
+Product_477,Pro Product_477,Home & Kitchen,302.54,708,214198.32,3.61,0.1,Seller_A,477,23-03-2023
+Product_478,Max Product_478,Electronics,284.97,169,48159.93,1.33,0.07,Seller_B,478,06-04-2023
+Product_479,Super Product_479,Automotive,173.68,378,65651.04,1.77,0.14,Seller_B,479,27-02-2023
+Product_480,Eco Product_480,Electronics,316.66,638,202029.08,2.9,0.25,Seller_C,480,23-03-2023
+Product_481,Pro Product_481,Beauty,33.58,56,1880.48,3.39,0.1,Seller_E,481,13-12-2023
+Product_482,Max Product_482,Home & Kitchen,388.61,23,8938.03,1.46,0.06,Seller_C,482,22-08-2023
+Product_483,Ultra Product_483,Home & Kitchen,171.88,759,130456.92,1.66,0.04,Seller_E,483,30-12-2023
+Product_484,Eco Product_484,Books,416.19,211,87816.09,4.27,0.23,Seller_C,484,30-12-2023
+Product_485,Super Product_485,Clothing,424.29,622,263908.38,1.48,0.23,Seller_B,485,21-01-2023
+Product_486,Eco Product_486,Automotive,210.9,863,182006.7,1.02,0.22,Seller_C,486,22-01-2023
+Product_487,Ultra Product_487,Automotive,255.32,765,195319.8,2.22,0.04,Seller_A,487,13-11-2023
+Product_488,Pro Product_488,Books,118.44,134,15870.96,2.45,0.21,Seller_B,488,23-04-2023
+Product_489,Pro Product_489,Beauty,107.84,823,88752.32,4.03,0.16,Seller_A,489,28-09-2023
+Product_490,Ultra Product_490,Clothing,182.98,508,92953.84,1.22,0.27,Seller_B,490,14-07-2023
+Product_491,Eco Product_491,Clothing,496.14,248,123042.72,3.44,0.19,Seller_C,491,10-06-2023
+Product_492,Super Product_492,Books,244.38,114,27859.32,3.47,0.14,Seller_D,492,15-11-2023
+Product_493,Super Product_493,Electronics,24.09,617,14863.53,1.21,0.23,Seller_A,493,22-05-2023
+Product_494,Super Product_494,Sports,244.73,310,75866.3,1.72,0.24,Seller_C,494,21-08-2023
+Product_495,Super Product_495,Books,302.87,206,62391.22,1.58,0.27,Seller_D,495,08-08-2023
+Product_496,Super Product_496,Automotive,408.16,97,39591.52,2.97,0.01,Seller_E,496,02-09-2023
+Product_497,Ultra Product_497,Beauty,252.98,27,6830.46,2.5,0.12,Seller_B,497,07-09-2023
+Product_498,Max Product_498,Books,487.46,824,401667.04,1.07,0.11,Seller_E,498,09-09-2023
+Product_499,Ultra Product_499,Clothing,135.59,352,47727.68,2.04,0.23,Seller_D,499,07-06-2023
+Product_500,Eco Product_500,Toys,370.25,526,194751.5,2.67,0.06,Seller_D,500,24-06-2023
